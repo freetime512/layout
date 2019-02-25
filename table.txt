@@ -1,0 +1,1890 @@
+ <table class="Table d-none"
+                        style="padding:0px; margin:auto auto auto -3.6pt; color:#333333; font-family:Arial, sans-serif; font-size:9.33333px; font-style:normal; font-variant-ligatures:normal; font-variant-caps:normal; font-weight:normal; letter-spacing:normal; orphans:2; text-transform:none; white-space:normal; widows:2; word-spacing:0px; -webkit-text-stroke-width:0px; background-color:#ffffff; text-decoration-style:initial; text-decoration-color:initial; border-collapse:collapse; border:1pt solid windowtext">
+                        <tbody style="padding:0px; margin:0px">
+                            <tr style="padding:0px; margin:0px; height:36.15pt">
+                                <td style="border-width:1pt; border-style:solid; border-color:windowtext; width:272pt; background:#f3f3f3"
+                                    width="363">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:36.15pt"><span
+                                                    style="background-color:#ffffff"><b
+                                                        style="padding:0px; margin:0px">&nbsp;</b></span></span></span>
+                                    </p>
+
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:36.15pt"><span style="background-color:#ffffff"><b
+                                                        style="padding:0px; margin:0px"><span
+                                                            style="font-size:10pt; padding:0px; margin:0px"><span
+                                                                style="font-family:Arial, sans-serif"><span
+                                                                    style="letter-spacing:-0.3pt">A. HỖ TRỢ Y TẾ Ở NƯỚC
+                                                                    NGO&Agrave;I</span></span></span></b></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:31.2pt; background:#f3f3f3; border-top:1pt solid windowtext; border-right:1pt solid windowtext"
+                                    width="42">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:36.15pt"><span
+                                                    style="background-color:#ffffff"><b
+                                                        style="padding:0px; margin:0px"><span
+                                                            style="font-size:10pt; padding:0px; margin:0px"><span
+                                                                style="font-family:Arial, sans-serif">Chương
+                                                                tr&igrave;nh 1</span></span></b></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; background:#f3f3f3; border-top:1pt solid windowtext; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:36.15pt"><span
+                                                    style="background-color:#ffffff"><b
+                                                        style="padding:0px; margin:0px"><span
+                                                            style="font-size:10pt; padding:0px; margin:0px"><span
+                                                                style="font-family:Arial, sans-serif">Chương
+                                                                tr&igrave;nh 2</span></span></b></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; background:#f3f3f3; border-top:1pt solid windowtext; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:36.15pt"><span
+                                                    style="background-color:#ffffff"><b
+                                                        style="padding:0px; margin:0px"><span
+                                                            style="font-size:10pt; padding:0px; margin:0px"><span
+                                                                style="font-family:Arial, sans-serif">Chương
+                                                                tr&igrave;nh 3</span></span></b></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; background:#f3f3f3; border-top:1pt solid windowtext; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:36.15pt"><span
+                                                    style="background-color:#ffffff"><b
+                                                        style="padding:0px; margin:0px"><span
+                                                            style="font-size:10pt; padding:0px; margin:0px"><span
+                                                                style="font-family:Arial, sans-serif">Chương
+                                                                tr&igrave;nh 4</span></span></b></span></span></span>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr style="padding:0px; margin:0px; height:37.7pt">
+                                <td style="border-bottom:1pt solid windowtext; border-left:1pt solid windowtext; width:272pt; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="363">
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:37.7pt"><b style="padding:0px; margin:0px"><span
+                                                        style="font-size:10pt; padding:0px; margin:0px"><span
+                                                            style="font-family:Arial, sans-serif">1. Chi ph&iacute; y
+                                                            tế</span></span></b></span></span></p>
+
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:37.7pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif">Người được bảo hiểm (đến
+                                                        hết 65 tuổi)</span></span></span></span></p>
+
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:37.7pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.65pt">Người được bảo hiểm (từ 66
+                                                            tuổi trở l&ecirc;n).</span></span></span></span></span></p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:31.2pt; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="42">
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:37.7pt">&nbsp;</span></span></p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:37.7pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">10,000</span></span></span></span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:37.7pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">5,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:37.7pt">&nbsp;</span></span></p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:37.7pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">30,0000</span></span></span></span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:37.7pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">15,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:37.7pt">&nbsp;</span></span></p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:37.7pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">50,000</span></span></span></span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:37.7pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">25,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:37.7pt">&nbsp;</span></span></p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:37.7pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">70,000</span></span></span></span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:37.7pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">35,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr style="padding:0px; margin:0px; height:12.55pt">
+                                <td style="border-bottom:1pt solid windowtext; border-left:1pt solid windowtext; width:272pt; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="363">
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><b style="padding:0px; margin:0px"><span
+                                                        style="font-size:10pt; padding:0px; margin:0px"><span
+                                                            style="font-family:Arial, sans-serif">2. Di chuyển y tế khẩn
+                                                            cấp</span></span></b></span></span></p>
+
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif">Thanh to&aacute;n
+                                                        c&aacute;c chi ph&iacute; cấp cứu khẩn cấp do SOS cung
+                                                        cấp.</span></span></span></span></p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:31.2pt; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="42">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">10,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">30,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">50,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">70,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr style="padding:0px; margin:0px; height:12.55pt">
+                                <td style="border-bottom:1pt solid windowtext; border-left:1pt solid windowtext; width:272pt; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="363">
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><b style="padding:0px; margin:0px"><span
+                                                        style="font-size:10pt; padding:0px; margin:0px"><span
+                                                            style="font-family:Arial, sans-serif">3. Hồi hương thi
+                                                            h&agrave;i về Việt Nam</span></span></b></span></span></p>
+
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif">Chi ph&iacute; hồi hương
+                                                        thi h&agrave;i về Việt Nam hoặc chi ph&iacute; hỏa t&aacute;ng
+                                                        tại nước ngo&agrave;i.</span></span></span></span></p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:31.2pt; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="42">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">10,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">30,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">50,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">70,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr style="padding:0px; margin:0px; height:12.55pt">
+                                <td style="border-bottom:1pt solid windowtext; border-left:1pt solid windowtext; width:272pt; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="363">
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><b style="padding:0px; margin:0px"><span
+                                                        style="font-size:10pt; padding:0px; margin:0px"><span
+                                                            style="font-family:Arial, sans-serif">4. Hồi hương thi
+                                                            h&agrave;i về nước nguy&ecirc;n
+                                                            xứ</span></span></b></span></span></p>
+
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif">Chi ph&iacute; hồi hương
+                                                        về nước nguy&ecirc;n xứ hoặc chi ph&iacute; hỏa t&aacute;ng tại
+                                                        nước ngo&agrave;i.</span></span></span></span></p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:31.2pt; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="42">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt">&nbsp;</span></span></p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">2,500</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt">&nbsp;</span></span></p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">5,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt">&nbsp;</span></span></p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">10,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt">&nbsp;</span></span></p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">15,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr style="padding:0px; margin:0px; height:12.55pt">
+                                <td style="border-bottom:1pt solid windowtext; border-left:1pt solid windowtext; width:272pt; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="363">
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><b style="padding:0px; margin:0px"><span
+                                                        style="font-size:10pt; padding:0px; margin:0px"><span
+                                                            style="font-family:Arial, sans-serif">5. Dịch vụ cứu trợ
+                                                            SOS</span></span></b></span></span></p>
+
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif">Lu&ocirc;n sẵn s&agrave;ng
+                                                        24/7 để phục người được bảo hiểm trong suốt chuyến đi v&agrave;
+                                                        được cung cấp ho&agrave;n to&agrave;n miễn ph&iacute;.
+                                                        C&aacute;c dịch vụ trợ gi&uacute;p
+                                                        ch&iacute;nh:</span></span></span></span></p>
+
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif">&nbsp;&nbsp;&nbsp;&nbsp; -
+                                                        Dịch vụ th&ocirc;ng tin trước chuyến đi: thủ tục l&agrave;m thị
+                                                        thực, y&ecirc;u cầu ti&ecirc;m chủng ở nước
+                                                        ngo&agrave;i;</span></span></span></span></p>
+
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif">&nbsp;&nbsp;&nbsp;&nbsp; -
+                                                        Dịch vụ trợ gi&uacute;p y tế: tư vấn t&igrave;nh trạng sức khỏe
+                                                        qua điện thoại; giới thiệu, cung cấp th&ocirc;ng tin về cơ sở y
+                                                        tế;</span></span></span></span></p>
+
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif">&nbsp;&nbsp;&nbsp;&nbsp; -
+                                                        Thu xếp c&aacute;c thủ tục nhập viện bệnh
+                                                        viện;</span></span></span></span></p>
+
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif">&nbsp;&nbsp;&nbsp;&nbsp; -
+                                                        Vận chuyển y tế khẩn cấp v&agrave; hồi hương thi
+                                                        h&agrave;i;</span></span></span></span></p>
+
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif">&nbsp;&nbsp;&nbsp;&nbsp; -
+                                                        Dịch vụ ph&aacute;p l&yacute;.</span></span></span></span></p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:31.2pt; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="42">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">Bao
+                                                            gồm</span></span></span></span></span></p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">Bao
+                                                            gồm</span></span></span></span></span></p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">Bao
+                                                            gồm</span></span></span></span></span></p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">Bao
+                                                            gồm</span></span></span></span></span></p>
+                                </td>
+                            </tr>
+                            <tr style="padding:0px; margin:0px; height:12.55pt">
+                                <td style="border-bottom:1pt solid windowtext; border-left:1pt solid windowtext; width:272pt; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="363">
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><b style="padding:0px; margin:0px"><span
+                                                        style="font-size:10pt; padding:0px; margin:0px"><span
+                                                            style="font-family:Arial, sans-serif">6. Thăm viếng tại bệnh
+                                                            viện</span></span></b></span></span></p>
+
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif">01 v&eacute; m&aacute;y
+                                                        bay hạng thường v&agrave; chi ph&iacute; ở kh&aacute;ch sạn cho
+                                                        Người th&acirc;n sang chăm s&oacute;c nếu Người được bảo hiểm
+                                                        kh&ocirc;ng thể vận chuyển cấp cứu v&agrave; cần phải nằm viện
+                                                        từ mười (10) ng&agrave;y trở l&ecirc;n ở nước
+                                                        ngo&agrave;i.</span></span></span></span></p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:31.2pt; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="42">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">1,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">3,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">5,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">7,000</span></span></span></span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr style="padding:0px; margin:0px; height:12.55pt">
+                                <td style="border-bottom:1pt solid windowtext; border-left:1pt solid windowtext; width:272pt; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="363">
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><b style="padding:0px; margin:0px"><span
+                                                        style="font-size:10pt; padding:0px; margin:0px"><span
+                                                            style="font-family:Arial, sans-serif">7. Thăm viếng để thu
+                                                            xếp tang lễ</span></span></b></span></span></p>
+
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif">01 v&eacute; m&aacute;y
+                                                        bay hạng thường v&agrave; chi ph&iacute; ở kh&aacute;ch sạn cho
+                                                        Người th&acirc;n sang để thu xếp những thủ tục cuối c&ugrave;ng
+                                                        khi Người được bảo hiểm bị tử vong ở nước
+                                                        ngo&agrave;i.</span></span></span></span></p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:31.2pt; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="42">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">1,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">3,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">5,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">7,000</span></span></span></span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr style="padding:0px; margin:0px; height:12.55pt">
+                                <td style="border-bottom:1pt solid windowtext; border-left:1pt solid windowtext; width:272pt; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="363">
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><b style="padding:0px; margin:0px"><span
+                                                        style="font-size:10pt; padding:0px; margin:0px"><span
+                                                            style="font-family:Arial, sans-serif">8. Chăm s&oacute;c trẻ
+                                                            em</span></span></b></span></span></p>
+
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif">01 v&eacute; m&aacute;y
+                                                        bay hạng thường v&agrave; chi ph&iacute; ở kh&aacute;ch sạn cho
+                                                        Người th&acirc;n sang để đưa trẻ em về nh&agrave; khi Người được
+                                                        bảo hiểm phải nằm viện ở nước
+                                                        ngo&agrave;i.</span></span></span></span></p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:31.2pt; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="42">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">1,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">3,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">5,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">7,000</span></span></span></span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr style="padding:0px; margin:0px; height:1cm">
+                                <td style="border-bottom:1pt solid windowtext; border-left:1pt solid windowtext; width:272pt; background:#f3f3f3; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="363">
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:1cm"><span style="background-color:#ffffff"><b
+                                                        style="padding:0px; margin:0px"><span
+                                                            style="font-size:10pt; padding:0px; margin:0px"><span
+                                                                style="font-family:Arial, sans-serif">B. HỖ TRỢ TAI NẠN
+                                                                C&Aacute;
+                                                                NH&Acirc;N</span></span></b></span></span></span></p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:31.2pt; background:#f3f3f3; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="42">
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:1cm"><span style="background-color:#ffffff"><b
+                                                        style="padding:0px; margin:0px">&nbsp;</b></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; background:#f3f3f3; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:1cm"><span style="background-color:#ffffff"><b
+                                                        style="padding:0px; margin:0px">&nbsp;</b></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; background:#f3f3f3; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:1cm"><span
+                                                    style="background-color:#ffffff"><b
+                                                        style="padding:0px; margin:0px">&nbsp;</b></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; background:#f3f3f3; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:1cm"><span
+                                                    style="background-color:#ffffff"><b
+                                                        style="padding:0px; margin:0px">&nbsp;</b></span></span></span>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr style="padding:0px; margin:0px; height:12.55pt">
+                                <td style="border-bottom:1pt solid windowtext; border-left:1pt solid windowtext; width:272pt; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="363">
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><b style="padding:0px; margin:0px"><span
+                                                        style="font-size:10pt; padding:0px; margin:0px"><span
+                                                            style="font-family:Arial, sans-serif">9.&nbsp;<span
+                                                                style="padding:0px; margin:0px; letter-spacing:-0.3pt">Tử
+                                                                vong do tai nạn</span></span></span></b></span></span>
+                                    </p>
+
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif">Người được bảo hiểm (đến
+                                                        hết 65 tuổi)</span></span></span></span></p>
+
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.65pt">Người được bảo hiểm (từ 66
+                                                            đến 80 tuổi)</span></span></span></span></span></p>
+
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif">Trẻ em được bảo hiểm (theo
+                                                        Hợp đồng bảo hiểm gia đ&igrave;nh).</span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:31.2pt; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="42">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">10,000</span></span></span></span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">5,000</span></span></span></span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">5,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">30,000</span></span></span></span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">15,000</span></span></span></span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">10,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">50,000</span></span></span></span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">25,000</span></span></span></span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">15,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">70,000</span></span></span></span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">35,000</span></span></span></span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">20,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr style="padding:0px; margin:0px; height:12.55pt">
+                                <td style="border-bottom:1pt solid windowtext; border-left:1pt solid windowtext; width:272pt; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="363">
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><b style="padding:0px; margin:0px"><span
+                                                        style="font-size:10pt; padding:0px; margin:0px"><span
+                                                            style="font-family:Arial, sans-serif">10.&nbsp;<span
+                                                                style="padding:0px; margin:0px; letter-spacing:-0.3pt">Thương
+                                                                tật do tai nạn</span>&nbsp;</span></span></b><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif">(trả tiền theo tỷ lệ
+                                                        thương tật quy định trong Bảng tỷ lệ bồi
+                                                        thường)</span></span></span></span></p>
+
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif">Người được bảo hiểm (đến
+                                                        hết 65 tuổi)</span></span></span></span></p>
+
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.65pt">Người được bảo hiểm (từ 66
+                                                            đến 80 tuổi)</span></span></span></span></span></p>
+
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif">Trẻ em được bảo hiểm (theo
+                                                        Hợp đồng bảo hiểm gia đ&igrave;nh).</span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:31.2pt; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="42">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">10,000</span></span></span></span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">5,000</span></span></span></span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">5,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">30,000</span></span></span></span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">15,000</span></span></span></span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">10,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">50,000</span></span></span></span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">25,000</span></span></span></span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">15,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">70,000</span></span></span></span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">35,000</span></span></span></span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">20,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr style="padding:0px; margin:0px; height:1cm">
+                                <td style="border-bottom:1pt solid windowtext; border-left:1pt solid windowtext; width:272pt; background:#f3f3f3; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="363">
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:1cm"><span style="background-color:#ffffff"><b
+                                                        style="padding:0px; margin:0px"><span
+                                                            style="font-size:10pt; padding:0px; margin:0px"><span
+                                                                style="font-family:Arial, sans-serif">C. HỖ TRỢ ĐI
+                                                                LẠI</span></span></b></span></span></span></p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:31.2pt; background:#f3f3f3; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="42">
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:1cm"><span style="background-color:#ffffff"><b
+                                                        style="padding:0px; margin:0px">&nbsp;</b></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; background:#f3f3f3; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:1cm"><span style="background-color:#ffffff"><b
+                                                        style="padding:0px; margin:0px">&nbsp;</b></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; background:#f3f3f3; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:1cm"><span
+                                                    style="background-color:#ffffff"><b
+                                                        style="padding:0px; margin:0px">&nbsp;</b></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; background:#f3f3f3; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:1cm"><span
+                                                    style="background-color:#ffffff"><b
+                                                        style="padding:0px; margin:0px">&nbsp;</b></span></span></span>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr style="padding:0px; margin:0px; height:12.55pt">
+                                <td style="border-bottom:1pt solid windowtext; border-left:1pt solid windowtext; width:272pt; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="363">
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><b style="padding:0px; margin:0px"><span
+                                                        style="font-size:10pt; padding:0px; margin:0px"><span
+                                                            style="font-family:Arial, sans-serif">11. Hủy bỏ chuyến
+                                                            đi</span></span></b></span></span></p>
+
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif">Thanh to&aacute;n tiền
+                                                        v&eacute; v&agrave; tiền ph&ograve;ng đ&atilde; trả trước nhưng
+                                                        kh&ocirc;ng đ&ograve;i lại được do hủy chuyến đi trước
+                                                        ng&agrave;y khởi h&agrave;nh chuyến
+                                                        đi.</span></span></span></span></p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:31.2pt; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="42">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">1,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">3,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">5,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">7,000</span></span></span></span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr style="padding:0px; margin:0px; height:12.55pt">
+                                <td style="border-bottom:1pt solid windowtext; border-left:1pt solid windowtext; width:272pt; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="363">
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><b style="padding:0px; margin:0px"><span
+                                                        style="font-size:10pt; padding:0px; margin:0px"><span
+                                                            style="font-family:Arial, sans-serif">12. Hỗ trợ người đi
+                                                            c&ugrave;ng</span></span></b></span></span></p>
+
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif">01 v&eacute; m&aacute;y
+                                                        bay hạng thường v&agrave; chi ph&iacute; ở kh&aacute;ch sạn cho
+                                                        Người th&acirc;n hay Người đi c&ugrave;ng đ&atilde; trả trước do
+                                                        Người được bảo hiểm phải nằm viện v&agrave; chuyến đi dự kiến bị
+                                                        gi&aacute;n đoạn.</span></span></span></span></p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:31.2pt; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="42">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">1,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">3,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">5,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">7,000</span></span></span></span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr style="padding:0px; margin:0px; height:12.55pt">
+                                <td style="border-bottom:1pt solid windowtext; border-left:1pt solid windowtext; width:272pt; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="363">
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><b style="padding:0px; margin:0px"><span
+                                                        style="font-size:10pt; padding:0px; margin:0px"><span
+                                                            style="font-family:Arial, sans-serif">13. H&agrave;nh
+                                                            l&yacute; đến chậm</span></span></b></span></span></p>
+
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif">Thanh to&aacute;n USD 100
+                                                        cho mỗi 12 tiếng li&ecirc;n tục khi h&agrave;nh
+                                                        l&yacute;&nbsp;của Người được bảo hiểm bị đến chậm ở nước
+                                                        ngo&agrave;i.</span></span></span></span></p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:31.2pt; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="42">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">100</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">200</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">300</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">400</span></span></span></span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr style="padding:0px; margin:0px; height:12.55pt">
+                                <td style="border-bottom:1pt solid windowtext; border-left:1pt solid windowtext; width:272pt; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="363">
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><b style="padding:0px; margin:0px"><span
+                                                        style="font-size:10pt; padding:0px; margin:0px"><span
+                                                            style="font-family:Arial, sans-serif">14. Giấy tờ đi
+                                                            đường</span></span></b></span></span></p>
+
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif">Chi ph&iacute; đi lại
+                                                        v&agrave; chỗ ở của Người được bảo hiểm v&agrave; c&aacute;c chi
+                                                        ph&iacute; để xin cấp hộ chiếu mới, v&eacute; vận chuyển
+                                                        v&agrave; c&aacute;c giấy tờ đi lại
+                                                        kh&aacute;c.</span></span></span></span></p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:31.2pt; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="42">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">300</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">400</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">600</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">1,000</span></span></span></span></span>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr style="padding:0px; margin:0px; height:12.55pt">
+                                <td style="border-bottom:1pt solid windowtext; border-left:1pt solid windowtext; width:272pt; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="363">
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><b style="padding:0px; margin:0px"><span
+                                                        style="font-size:10pt; padding:0px; margin:0px"><span
+                                                            style="font-family:Arial, sans-serif">15. Chuyến đi bị
+                                                            tr&igrave; ho&atilde;n</span></span></b></span></span></p>
+
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif">Thanh to&aacute;n USD 100
+                                                        cho mỗi 12 tiếng li&ecirc;n tục Người được bảo hiểm bị chậm
+                                                        chuyến đi ở nước ngo&agrave;i.</span></span></span></span></p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:31.2pt; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="42">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">100</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">300</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">500</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">700</span></span></span></span></span>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr style="padding:0px; margin:0px; height:12.55pt">
+                                <td style="border-bottom:1pt solid windowtext; border-left:1pt solid windowtext; width:272pt; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="363">
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><b style="padding:0px; margin:0px"><span
+                                                        style="font-size:10pt; padding:0px; margin:0px"><span
+                                                            style="font-family:Arial, sans-serif">16. Tự động mở rộng
+                                                            thời hạn bảo hiểm</span></span></b></span></span></p>
+
+                                    <p style="padding:0cm 5.4pt; margin:0px"><span style="line-height:normal"><span
+                                                style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif">Đối với hợp đồng bảo hiểm
+                                                        theo chuyến đi, thời gian bảo hiểm sẽ được tự động k&eacute;o
+                                                        d&agrave;i th&ecirc;m 72 giờ ho&agrave;n to&agrave;n miễn
+                                                        ph&iacute; trong trường hợp Người được bảo hiểm gặp phải những
+                                                        sự cố nằm ngo&agrave;i tầm kiểm
+                                                        so&aacute;t.</span></span></span></span></p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:31.2pt; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="42">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">-</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">C&oacute;</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">C&oacute;</span></span></span></span></span>
+                                    </p>
+                                </td>
+                                <td style="border-bottom:1pt solid windowtext; border-left:#f0f0f0; width:2cm; border-top:#f0f0f0; border-right:1pt solid windowtext"
+                                    width="76">
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt">&nbsp;</span></span>
+                                    </p>
+
+                                    <p align="center" style="padding:0cm 5.4pt; margin:0px; text-align:center"><span
+                                            style="line-height:normal"><span style="height:12.55pt"><span
+                                                    style="font-size:10pt; padding:0px; margin:0px"><span
+                                                        style="font-family:Arial, sans-serif"><span
+                                                            style="letter-spacing:-0.6pt">C&oacute;</span></span></span></span></span>
+                                    </p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>

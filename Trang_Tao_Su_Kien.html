@@ -1,0 +1,312 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <title>Create Event</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous"> -->
+    <!-- <link rel="stylesheet" href="css/bootstrap.min.css"> -->
+    <script src="/js/jquery-3.3.1.min.js"></script>
+    <script src="/js/owl.carousel.min.js"></script>
+    <link rel="stylesheet" href="/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="/css/bootstrap.min1.css">
+    <!-- <link rel="stylesheet" href="/css/font-awesome.min.css"> -->
+    <link rel="stylesheet" href="/css//mystyle.css">
+    <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B"
+        crossorigin="anonymous"> -->
+    <style>
+        .owl-carousel .owl-dots.disabled,
+        .owl-carousel .owl-nav.disabled {
+            display: block;
+        }
+
+
+        .navbar {
+            margin-left: -2.5%;
+            margin-right: -2.5%;
+            /* padding-left: 10%;
+            padding-right: 10%; */
+
+        }
+ 
+        .khung {
+            margin-left: -1.5%;
+            margin-top: 0.05%;
+            margin-right: -55px;
+            width: 103%;
+        }
+
+        .header {
+            /* height: 80px; */
+            height: 300%;
+
+        }
+
+        body {
+            font-size: 90%
+        }
+
+        .mauchu {
+            color: #FFA500;
+        }
+
+        /* a:hover {
+            background: #FFA500;
+            color: #fff;
+        } */
+    </style>
+</head>
+
+<body>
+    <div class="container-fluid header">
+        <div class="row ">
+            <!-- <div class="col-sm-12 col-md-3 ">
+                <img src="../hinh/logo2.png" width="100%" height="100%">
+            </div> -->
+
+            <!-- <div class="col-sm-12 col-md-6 text-center pt-2 d-none d-sm-block">
+                <h1 class="text-dark font-weight-bold">Hệ Thống Vé Sự Kiện</h1>
+            </div> -->
+
+            <div class="col-sm-12 col-md-12 text-right font-weight-bold bg-warning  ">
+                <a class="linktui" target="_blank" href="/Trangchu.html">Logout</a>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- ================================================================================================= -->
+
+
+    <div class="container-fluid bg-dark">
+        <div class="row">
+            <div class="container">
+                <div class="col-md-12 col-sm-12 ">
+
+                    <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+
+                        <div class="logo">
+                            <img src="/hinh/logo.png">
+                        </div>
+
+                        <a class="navbar-brand d-md-none d-none " href="#">MENU</a>
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+
+                        <div class="collapse navbar-collapse chumenu" id="navbarSupportedContent">
+                            <ul class="navbar-nav text-light mr-auto pt-3">
+                                <li class="nav-item  mr-4">
+                                    <p class=""> <a class="nav-link" href="#">
+                                            <i class="fa fa-home " aria-hidden="true"></i>
+                                            &nbsp;Trang chủ
+                                            <span class="sr-only">(current)</span>
+                                        </a></p>
+                                </li>
+                                <li class="nav-item  mr-4">
+                                    <p> <a class="nav-link" href="#">
+                                            <i class="fa fa-th-list" aria-hidden="true"></i>
+                                            &nbsp;Danh sách sự kiện</a></p>
+                                </li>
+
+                                <!-- <li class="nav-item active mr-4">
+                                <a class="nav-link" href="#">
+                                    <i class="fa fa-ticket text-white" aria-hidden="true"></i>
+                                    &nbsp;Vé của bạn</a>
+                            </li> -->
+                                <li class="nav-item mr-4">
+                                    <p> <a class="nav-link" href="#">
+                                            <i class="fa fa-newspaper-o" aria-hidden="true"></i>
+                                            &nbsp;Tin tức</a></p>
+                                </li>
+                                <li class="nav-item dropdown mr-4 bg-dark ">
+
+                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <i class="fa fa-user " aria-hidden="true"></i>
+
+                                        &nbsp; Tài khoản của tôi
+                                    </a>
+
+                                    <div class="dropdown-menu bg-dark  " aria-labelledby="navbarDropdownMenuLink">
+                                        <a class="dropdown-item text-white hover-bg-orange" href="#">Thông tin tài
+                                            khoản</a>
+                                        <a class="dropdown-item text-white hover-bg-orange" href="#">Vé của tôi</a>
+                                    </div>
+
+                                </li>
+
+                                <li class="nav-item mr-4 d-none">
+                                    <p> <a class="btn btn-warning" href="#">
+                                            <i class="fa fa-plus-square" aria-hidden="true"></i>
+                                            &nbsp;Tạo sự kiện</a></p>
+                                </li>
+
+                                <!-- <li class="nav-item">
+                                <a class="nav-link disabled" href="#">Disabled</a>
+                            </li> -->
+                            </ul>
+                            <form class="form-inline my-2 my-lg-0 d-none">
+                                <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                                <i class="fa fa-search btn btn-warning d-none d-sm-block " aria-hidden="true">
+                                </i>
+                                <!-- <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button> -->
+                            </form>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- ================================================================================================= -->
+
+    <div class="container mt-3">
+        <div class="row">
+            <div class="col-12">
+                    <h3 class="text-warning text-center">Tạo sự kiện</h3>
+
+                <div class="form-group">
+                    <label for="">Tên sự kiện</label>
+                    <input type="text" class="form-control" name="" id="Th_ten_su_kien" aria-describedby="helpId"
+                        placeholder="">
+                </div>
+
+                <div class="form-group">
+                    <label for="">Thể loại sự kiện</label>
+                    <select class="btn btn-outline-warning " id="Th_the_loai" onchange="this.value">
+                        <!-- <option value="all">Tất cả sự kiện</option> -->
+                        <option value="Giải trí">Giải trí</option>
+                        <option value="Hội thảo">Hội thảo</option>
+                        <option value="Hội chợ">Hội chợ</option>
+                        <option value="Sự kiện khác">Sự kiện khác</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="">Diễn giả</label>
+                    <input type="text" class="form-control" name="" id="Th_dien_gia" aria-describedby="helpId"
+                        placeholder="">
+                </div>
+
+                <div class="form-group">
+                    <label for="">Số lượng người tham dự</label>
+                    <input type="number" class="form-control" name="" id="Th_slot" aria-describedby="helpId"
+                        placeholder="">
+                </div>
+                
+                <div class="form-group">
+                    <label for="">Giá vé</label>
+                    <input type="number" class="form-control" name="" id="Th_gia" aria-describedby="helpId"
+                        placeholder="">
+                    <small id="helpId" class="form-text text-muted">Nếu free thì nhập giá vé là 0</small>
+                </div>
+
+                <div class="form-group">
+                    <label for="">Ngày diễn ra sự kiện</label>
+                    <input type="date" class="form-control" name="" id="Th_ngay" aria-describedby="helpId" placeholder="">
+                    <small id="helpId" class="form-text text-muted">Help text</small>
+                </div>
+
+                <div class="form-group">
+                    <label for="">Thời gian diễn ra sự kiện</label>
+                    <input type="time" class="form-control" name="" id="Th_thoi_gian" aria-describedby="helpId"
+                        placeholder="">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputFile">Ảnh sự kiện</label>
+                    <input type="file" class="form-control-file" id="exampleInputFile" aria-describedby="fileHelp">
+                    <!-- <small id="fileHelp" class="form-text text-muted">This is some placeholder block-level help text
+                        for the above input. It's a bit lighter and easily wraps to a new line.</small> -->
+                </div>
+                <div class="form-group">
+                    <label for="">Mô tả sự kiện (Chú thích) </label>
+                    <textarea class="form-control" name="" id="Th_mo_ta" rows="6"></textarea>
+                </div>
+
+                <button type="submit" class="btn btn-warning">Submit</button>
+            </div>
+        </div>
+    </div>
+    <!-- ================================================================================================= -->
+
+
+
+
+    <!-- ================================================================================================= -->
+
+
+
+
+
+    <!-- ================================================================================================= -->
+
+    <div class="container-fluid" id="myfooter">
+        <div class="row mt-5 pb-4 pt-5">
+            <div class="col-md-1">
+            </div>
+            <div class="col-md-3 text-white">
+                <img src="/hinh/logo.png" width="30%" height="auto" style="float: left">
+                <p>
+                    Trang web là hệ thống website cung cấp chức năng giúp người dùng đăng kí nhận vé online từ các sự
+                    kiện. Đồng
+                    thời, người dùng có thể tạo sự kiện và phát vé cho mọi người dưới hình thức free hoặc có trả phí</p>
+            </div>
+
+            <div class="col-md-3 text-white ">
+                <h3 class="mauchu">Liên hệ</h3>
+                <p class="lineheight-2px">
+                    <i class="fa fa-map-marker" aria-hidden="true"></i> &nbsp; Địa chỉ: Trường ĐH Công Nghệ Thông Tin<br>
+
+                    <i class="fa fa-phone" aria-hidden="true"></i> &nbsp; Điện thoại: 0126 864 5039<br>
+
+                    <i class="fa fa-envelope" aria-hidden="true"></i> &nbsp; Email: 15520370@gm.uit.edu.vn</p>
+                </p>
+            </div>
+
+            <div class="col-md-2 text-white">
+                <h3 class="mauchu">Thông tin </h3>
+                <p class="lineheight-2px">Danh sách sự kiện<br>
+                    Sự kiện nổi bật<br>
+                    Tạo sự kiện<br>
+                    Tài khoản</p>
+            </div>
+
+            <div class="col-md-3 text-white">
+                <h3 class="mauchu">Thông tin nhóm</h3>
+                <p class="lineheight-2px">Nguyễn Quan Đạo<br>
+                    Cao Thị Yến Khoa<br>
+                    Lý Nguyễn Anh Khoa<br>
+                    Đoàn Công Minh</p>
+            </div>
+
+            <!-- <div class="col-md-1">
+            </div> -->
+        </div>
+    </div>
+
+
+    <div class="container-fluid bg-dark">
+        <div class="row text-center">
+            <div class="col-md-12 mt-2">
+                <p class="text-white">© 2018 Event Ticket System. Nhóm sinh viên thực hiện Quan Đạo - Yến Khoa- Anh
+                    Khoa - Công Minh Khoa Mạng Máy Tính & Truyền Thông Khóa 2015</p>
+            </div>
+        </div>
+    </div>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
